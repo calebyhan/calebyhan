@@ -6,3 +6,5 @@ Caleb Han - [Portfolio](https://github.com/calebyhan/CalebHan)
 * Check out my [About Me](https://github.com/calebyhan/CalebHan/blob/main/README.md) for more information about me!
 
 :D
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calebyhan&layout=compact&hide=purebasic)
