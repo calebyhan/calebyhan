@@ -2,7 +2,7 @@ Caleb Han - [Portfolio](https://github.com/calebyhan/CalebHan)
 
 * Favorite projects: those listed on my [pinned](https://github.com/calebyhan) or [starred](https://github.com/calebyhan?tab=stars)
 * Working on any repository that does not have a description!
-* Currently interested in cs + biological and medical physics.
+* Currently interested in cs + physics + neuroscience.
 
 :D
 
