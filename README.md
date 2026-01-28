@@ -22,6 +22,7 @@
 <div align="center">
 
 [![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=calebyhan&repo=rescored&theme=default&hide_border=true)](https://github.com/calebyhan/rescored)
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=calebyhan&repo=bible-rag&theme=default&hide_border=true)](https://github.com/calebyhan/bible-rag)
 
 </div>
 
@@ -31,6 +32,6 @@ Explore more of my [pinned repositories](https://github.com/calebyhan) or check 
 
 <div align="center">
   <i>:D Always happy to connect!</i>
-  
+
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/calebyhan)
 </div>
