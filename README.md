@@ -21,7 +21,7 @@
 
 <div align="center">
 
-[![senate](https://helio-github-stats.vercel.app/api/pin?username=calebyhan&repo=rescored&theme=default&hide_border=false&border_radius=4.5&card_width=466)](https://github.com/cssgunc/senate)
+[![senate](https://helio-github-stats.vercel.app/api/pin?username=cssgunc&repo=senate&theme=default&hide_border=false&border_radius=4.5&card_width=466)](https://github.com/cssgunc/senate)
 [![bible-rag](https://helio-github-stats.vercel.app/api/pin?username=calebyhan&repo=bible-rag&theme=default&hide_border=false&border_radius=4.5&card_width=466)](https://github.com/calebyhan/bible-rag)
 
 </div>
